@@ -26,7 +26,7 @@
 }
 
 .up-row {
-  margin: 100px;
+  margin: 10px;
 }
 
 .bestprice {
@@ -72,3 +72,23 @@
   position: absolute;
   bottom: 35px
 }
+
+.tab3 {
+  background-color: #00875a 
+}
+
+
+.tab1 {
+  left: 55px;
+  bottom:0px;
+  position: absolute;
+  text-align: center;
+  padding: 5px;
+  height: 30px;
+  width: 100px;
+  color: white;
+  position: absolute;
+  background-color: #00875a
+
+
+
