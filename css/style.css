@@ -16,8 +16,8 @@
 
 .modelphoto {
   display: inline-block;
-  height: 500px;
-  width: 500px;
+  height: 400px;
+  width: 400px;
   /* background-color: coral;
   border: 5px solid #000; */
 }
@@ -26,5 +26,7 @@
   width: 100%;
 }
 
-
+.up-row {
+  margin: 100px;
+}
 
