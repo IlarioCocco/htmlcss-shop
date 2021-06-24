@@ -11,10 +11,21 @@
 
 
 .box {
-  width: 75%;
+  width: 50%;
   margin: auto;
 }
 
+.modelphoto {
+  display: inline-block;
+  height: 500px;
+  width: 500px;
+  /* background-color: coral;
+  border: 5px solid #000; */
+}
+
+.modelphotoimg {
+  width: 100%;
+}
 
 
 
